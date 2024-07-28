@@ -1,2 +1,3 @@
-Violet
-Indigo
+Red
+Green 
+Blue
